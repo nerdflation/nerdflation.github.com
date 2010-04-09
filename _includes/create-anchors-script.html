@@ -1,0 +1,20 @@
+<script type="text/javascript">
+  function canon(s) {
+    return s.toLowerCase().replace(/[^a-z]+/g, "-").replace(/-$/, "");
+  }
+
+  function createAnchors(els, html) {
+    for (var i = 0; i < els.length; i++) {
+      var el = els[i];
+      name = canon(el.textContent);
+      var link = document.createElement("a");
+      link.name = name;
+      link.innerHTML = html;
+      link.href = "#" + name;
+      link.className = "anchor-link";
+      el.appendChild(link);
+    }
+  }
+  createAnchors(document.getElementsByTagName("h3"), "&bull;");
+  createAnchors(document.getElementsByTagName("h2"), "#");
+</script>

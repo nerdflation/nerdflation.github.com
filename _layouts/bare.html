@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+    <meta content="en-us" http-equiv="Content-Language" />
+    <meta content="Nerdflation" name="description" />
+    <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <title>Nerdflation &ndash; {{ page.title }}</title>
+  </head>
+  <body>
+    <div id="wrapper">
+      <header>
+        <h1 id="title"><a href="/">&para; Nerdflation</a></h1>
+      </header>
+      <table id="maintable">
+        <tr>
+          <td>&nbsp;</td>
+          <td>
+            {% if page.title %}
+              <div id="subtitle">{{ page.title }}</div>
+            {% else %}
+              <div id="quiet-subtitle">nerd-nation</div>
+            {% endif %}
+          </td>
+        </tr>
+        <tr>
+          {{ content }}
+        </tr>
+        <tr>
+          <td>&nbsp;</td>
+          <td>
+            <footer id="footer">
+              &copy; 2010 Misha U. <br>nerdflation@gmail.com<br>
+            </footer>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </body>
+</html>
