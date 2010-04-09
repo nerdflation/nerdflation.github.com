@@ -5,7 +5,15 @@
     <meta content="en-us" http-equiv="Content-Language" />
     <meta content="Nerdflation" name="description" />
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-    <link href="/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+    <script>
+      var f;
+      if (navigator.platform.indexOf("Mac") == -1) {
+        f = "screen.css";
+      } else {
+        f = "screen-light.css";
+      }
+      document.write('<link href="/css/' + f + '" media="screen, projection" rel="stylesheet" type="text/css" />');
+    </script>
     <title>Nerdflation &ndash; {{ page.title }}</title>
   </head>
   <body>
