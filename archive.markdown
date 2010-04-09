@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Post Archive
+title: post archive
 ---
 
 {% for post in site.posts %}

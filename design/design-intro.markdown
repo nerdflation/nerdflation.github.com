@@ -1,6 +1,6 @@
 ---
 layout: design-doc
-title: Design and Planning
+title: design and planning
 ---
 
 ### The Challenge

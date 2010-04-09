@@ -1,5 +1,5 @@
 ---
-title: Hey Self, This is How to Write Code
+title: hey self, this is how to write code
 layout: default-with-anchors
 ---
 
