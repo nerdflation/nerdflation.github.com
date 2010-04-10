@@ -6,12 +6,12 @@ titile: design as navigation
 ### The Challenge
 
 I read [The Design of Design][1] last weekend, and it got me thinking about my
-own experiences with design and development, and how I feel that they could be
-improved.  I could probably go on and on about the frustrations, irritations,
-and inefficiencies those experiences have brought, but it's probably best that I
-just cut to the chase.
+own experiences with design and development, and how crude and uncivilized my
+abilities seem compared to the shining ideal I harbor somewhere behind the left
+manipulatory ventricle of the uppermost quadrant of my brain.
 
-I want my software engineering practice to be:
+Enough neuroscience; let's cut to the chase. I want my software engineering
+practice to be:
 
 - Systematic
 - Repeatable
