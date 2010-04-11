@@ -82,5 +82,5 @@ For the sake of my own sanity and productivity, I've started to put together my
 own [software jungle mapping kit][2]. We'll see how it works out in practice.
 
 
-[1]: /design/2010/04/06/design-of-design.html
-[2]: /design/design-intro.html
+[1]: http://nerdflation.github.com/design/2010/04/06/design-of-design.html
+[2]: http://nerdflation.github.com/design/design-intro.html
