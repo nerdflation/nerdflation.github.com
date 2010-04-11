@@ -49,6 +49,9 @@ a {
   color: #7f7f9f;
   text-decoration: none;
 }
+#feed {
+  opacity: 0.8;
+}
 #design-links-header {
   line-height: 125%;
   margin:0;
