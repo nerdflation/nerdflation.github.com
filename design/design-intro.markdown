@@ -56,12 +56,14 @@ superfluous organization that detracts from those qualities. An unreadable
 document is a waste of time.  If the docs aren't evolving over the course of the
 project, then there's something wrong with how you're using them.
 
-Use a change-control system, and make sure all design changes get reviewed and
-propagated to the entire team.
+Treat your design documents as first-class artifacts of the development
+process: Use a change-control system, and make sure all design changes get
+reviewed and propagated to the entire team.
 
 
 ### Primary Documents
 
+Here is my [Jr. Lightweight Foldable Software Explorer Mapping Kit][1].
 
 1. [Project Engagement Plan](engagement-plan.html) &mdash; "Where are we trying
    to go and why?".
@@ -72,7 +74,10 @@ propagated to the entire team.
    next?"
 
 
-### Supplementary Documents
+### Supplemental Documents
 
 - [Subproject Plan](subproject-plan.html)
 - [Style Guide](style-guide.html)
+
+
+[1]: http://nerdflation.github.com/design/2010/04/10/design-as-navigation.html

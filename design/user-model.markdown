@@ -21,29 +21,30 @@ Brooks writes:
 > An articulated guess beats an unspoken assumption.
 
 
-User Description
+User Types
 ----------------------------------------------------------------------
 
-Describe the user or users of the product.
+You may have multiple different types of users. For each type of user, record:
+
+### User Description
+
+A brief description this type of user of the product.
 
 
-Purposes of Use
-----------------------------------------------------------------------
+### Purposes of Use
 
-Describe why the user would use the product, and to what ends.
-
-
-Modes of Use
-----------------------------------------------------------------------
-
-Describe the different ways in which the product will be used.
+Why this type of user would use the product, and to what ends.
 
 
-Delightful Factors
-----------------------------------------------------------------------
+### Modes of Use
 
-Describe the indescribable qualities of the product that will delight the
- user.
+The different ways in which the product will be used (e.g., sometimes as a
+hammer, sometimes as a doorstop).
+
+
+### Delightful Factors
+
+The indescribable qualities of the product that will delight this type of user.
 
 
 ----------------------------------------------------------------------
