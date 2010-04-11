@@ -182,5 +182,5 @@ change? What are the implications for the project plan as a whole?
 ----------------------------------------------------------------------
 Next: [Subproject Plan](subproject-plan.html)
 
-[1]: http://nerdflation.github.com/design/engagement-plan.html
+[1]: http://nerdflation.github.com/design/pep.html
 [2]: http://nerdflation.github.com/design/2010/04/06/design-of-design.html

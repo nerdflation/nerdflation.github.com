@@ -1,7 +1,7 @@
 ---
 layout: design-template
 title: Project Engagement Plan
-about_url: http://nerdflation.github.com/design/engagement-plan.html
+about_url: http://nerdflation.github.com/design/pep.html
 ---
 
 - Client:

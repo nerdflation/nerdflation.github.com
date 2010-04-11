@@ -65,7 +65,7 @@ reviewed and propagated to the entire team.
 
 Here is my [Jr. Lightweight Foldable Software Explorer Mapping Kit][1].
 
-1. [Project Engagement Plan](engagement-plan.html) &mdash; "Where are we trying
+1. [Project Engagement Plan](pep.html) &mdash; "Where are we trying
    to go and why?".
 2. [User Model](user-model.html) &mdash; "Who is this for?"
 3. [Design Decisions](design-decisions.html) &mdash; "How will we get
