@@ -37,9 +37,9 @@ The iteration plan is a tool to help your team do just that:
    have a better idea of (a) the scope of the project, and (b) how long the
    project will take.
 
-3. It is plan and reminder to *maximize* the amount and accuracy of relevant
-   information you gather *earlier* in the project in order to *minimize* the
-   risk of expensive changes later in the project.
+3. It is a plan and a reminder to *maximize* the amount and accuracy of relevant
+   information you gather *earlier* in the project, in order to *minimize* the
+   risk of expensive changes *later* in the project.
 
 The best, most fitting designs are those grown in the context of a constant,
 two-way communication between the design team and the client. Get something
@@ -69,18 +69,19 @@ the project should be answered before others.
 A Single Iteration
 ----------------------------------------------------------------------
 
-For each iteration, list:
-
-- Its [type](#iteration-type).
-- Its [goal](#purpose-or-goal).
-- Its [expected schedule](#delivery-schedule).
-- Any information gathered as a [result](#after-action-report)
-
 Each iteration should:
 
 - End at a fixed time.
 - Be focused on validating a major design decision, usecase, or open question.
 - Deliver some kind of working product (or mock, or simulation).
+
+For each iteration, list:
+
+- Its [type](#iteration-type).
+- Its [goal](#purpose-or-goal).
+- Its [expected schedule](#delivery-schedule).
+- Its required [staffing levels](#staffing-levels)
+- Any [information gathered](#after-action-report) after its conclusion.
 
 After seeing the iteration's deliverable, the client may choose to alter the
 requirements set forth in the [PEP][1].  That's fine as long as you are making
@@ -93,12 +94,13 @@ After each iteration, your team should reevaluate where you are on the path to
 your goal and whether or not any of the decisions or assumptions you've recorded
 in your other documents need to change.
 
-Don't list the entire lifecycle of the project to begin with. You will create
-plans for more iterations as the project continues and as you construct clearer
-picture of the problem and design spaces.
+Don't try to plan out the entire lifecycle of the project at first. You will
+create plans for more iterations as the project continues and as you construct a
+clearer picture of the problem and design spaces.
 
 Do state the implications of a series of iterations: What will you know at
-such-and-such a point? What will you have delivered?
+such-and-such a point? What will you have delivered? What will you be able to
+state with confidence?
 
 
 Iteration Type
@@ -169,6 +171,21 @@ and you have enough people to do the work. (In fact, a pipelined iteration may
 be an excellent way to start training up more junior members of the team: they
 can work somewhat independently, but their work will receive formal review every
 one or two weeks. Meantime, the rest of the project can proceed apace.)
+
+
+Staffing Levels
+----------------------------------------------------------------------
+
+It is usually a mistake to overstaff at the beginning of a project: the
+communication and synchronization overhead is just too high. On the other hand,
+if the project is to grow beyond its initial staffing requirements, you will
+need a plan to bring new people on board and up to speed.  State your
+requirements for and assumptions of staffing levels at different stages in the
+iteration plan.
+
+As with other environmental factors, your plans need to be reevaluated when your
+assumptions about staffing levels change. Having those assumptions recorded in
+the iteration plan will help to ensure that reevaluation.
 
 
 After Action Report

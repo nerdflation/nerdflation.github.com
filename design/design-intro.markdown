@@ -80,4 +80,4 @@ Here is my [Jr. Lightweight Foldable Software Explorer Mapping Kit][1].
 - [Style Guide](style-guide.html)
 
 
-[1]: http://nerdflation.github.com/design/2010/04/10/design-as-navigation.html
+[1]: http://nerdflation.github.com/2010/04/10/design-as-navigation.html
