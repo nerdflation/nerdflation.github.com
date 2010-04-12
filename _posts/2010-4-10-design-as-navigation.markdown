@@ -30,7 +30,8 @@ about for the next thing to do.
 ### Repeatable
 
 I want to be able to succeed consistently time and again, not just once in a
-while by chance. I also want to be able to teach success to others
+while by chance. I also want to be able to teach others to succeed in the same
+way.
 
 
 ### Efficient
