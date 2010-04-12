@@ -80,7 +80,7 @@ For each iteration, list:
 - Its [type](#iteration-type).
 - Its [goal](#purpose-or-goal).
 - Its [expected schedule](#delivery-schedule).
-- Its required [staffing levels](#staffing-levels)
+- Its required [staffing levels](#staffing-levels).
 - Any [information gathered](#after-action-report) after its conclusion.
 
 After seeing the iteration's deliverable, the client may choose to alter the
@@ -113,7 +113,8 @@ The goal of the iteration depends on where it occurs in the design's lifecycle.
    used to communicate with the client.
 
 2. **Prototype** A functioning artifact, crude and massively incomplete, built
-   to throw away, but demonstrating one or more major, user-visible desiderata.
+   to be thrown away, but demonstrating one or more major, user-visible
+   desiderata.
 
     A prototype should be focused on one of these goals:
 
@@ -170,7 +171,7 @@ You can schedule multiple iterations concurrently, if it makes sense to do so
 and you have enough people to do the work. (In fact, a pipelined iteration may
 be an excellent way to start training up more junior members of the team: they
 can work somewhat independently, but their work will receive formal review every
-one or two weeks. Meantime, the rest of the project can proceed apace.)
+one or two weeks. Meanwhile, the rest of the project can proceed apace.)
 
 
 Staffing Levels
