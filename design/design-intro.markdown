@@ -3,8 +3,9 @@ layout: design-doc
 title: documents for software design and planning
 ---
 
-These documents are my attempt to systematize an effective iterative development
-process using a [navigational][1] metaphor.
+These documents are my attempt to express an effective iterative development
+process based on a [navigational][1] metaphor.
+
 
 
 ### Basic Assumptions of Iterative Navigation

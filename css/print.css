@@ -28,7 +28,7 @@ a {
   color: #707070;
 }
 #wrapper {
-  width: 680px;
+  width: 740px;
   margin: 0 auto;
 }
 #maintable {
@@ -52,7 +52,7 @@ a {
 }
 #content {
   vertical-align: top;
-  width: 550px;
+  width: 580px;
 }
 #content *:first-child {
   margin-top: 0;
@@ -67,6 +67,11 @@ a {
 }
 #older-posts {
   text-align: right;
+}
+#doc-status {
+  font-style: italic;
+  color: #888;
+  font-size: 13px;
 }
 .deco {
   color: #aaa;

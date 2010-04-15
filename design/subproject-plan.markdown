@@ -3,6 +3,9 @@ layout: design-doc
 title: Subproject Plan
 ---
 
+<div id="doc-status">Doc Status: DRAFT 15 April 2010</div>
+
+
 ### Rationale
 
 A subproject is a portion of the design that is too large or important for an

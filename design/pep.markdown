@@ -3,6 +3,8 @@ layout: design-doc
 title: Project Engagement Plan
 ---
 
+<div id="doc-status">Doc Status: DRAFT 15 April 2010</div>
+
 
 ### Rationale
 
@@ -11,11 +13,16 @@ It is the kernel around which the rest of the design will grow. It describes
 *where* you are trying to go with the project and *why*, but not *how* you are
 going to get there.
 
-As the project nears completion, the PEP will contain a precise and complete
+As the project nears completion, the PEP will converge on a precise and complete
 expression of the project's requirements. As the project begins, however, it
 will be necessarily incomplete.  It will capture the lay of the land as seen
-from the point of departure -- and for most creative projects of reasonable
+from the point of departure -- but for most creative projects of reasonable
 scope, it is impossible to create a complete requirements spec at the outset.
+
+In the PEP, specify only what the client needs, not how it will be achieved. You
+will write the *how* in the [design decisions][1] document. If you don't carefully
+distinguish requirements from implementation, you may be closing the doors to
+better solutions.
 
 It is critical that every part of the PEP is expressed clearly and succinctly,
 and it is critical that the client and all members of the design team clearly
@@ -104,6 +111,16 @@ Brooks writes:
 > and use models, and you will probably find some narrowing constraints.
 
 
+Assumptions
+----------------------------------------------------------------------
+
+List the assumptions that lay behind the goals and needs of the project. You are
+trying to solve a problem, so what is it that makes you think that it's a really
+a problem that needs to be solved? The main reason for listing assumptions is so
+that they can be examined and their influence tracked -- both at the beginning
+of the project and over the course of the project as factors change.
+
+
 Budgeted Resource
 ----------------------------------------------------------------------
 
@@ -127,5 +144,13 @@ Brooks writes:
 >   critical resource for late allocation.)
 
 
+Glossary
+----------------------------------------------------------------------
+
+Briefly explain any jargon that a reader may be unfamiliar with.
+
+
 ----------------------------------------------------------------------
 Next: [User Model](user-model.html)
+
+[1]: http://nerdflation.github.com/design/design-decisions.html

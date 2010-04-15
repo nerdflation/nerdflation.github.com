@@ -3,10 +3,12 @@ layout: design-doc
 title: User Model
 ---
 
+<div id="doc-status">Doc Status: DRAFT 15 April 2010</div>
+
 ### Rationale
 
 A design should be useful to the user and it should delight the user. In order
-to satsify both of those things, you need to know something about that user.
+to give it either of those qualities, you need to know something about the user.
 
 The user model document clarifies *who* the product is being built for and *how*
 the product will be used.
