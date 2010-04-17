@@ -23,4 +23,4 @@ Iterations
 
     ### Results
 
-    *Describe the conclusion of the iteration, and any decisions made.
+    *Describe the conclusion of the iteration, and any decisions made.*
