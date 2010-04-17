@@ -110,5 +110,9 @@ regression testing after changes.
 Becoming a Good Designer
 ----------------------------------------------------------------------
 
-- Study exemplars.
+- Study other designers' styles intentionally.
 - Get more experienced designers to examine and critique your work.
+- Make conscious judgments.
+- Practice!
+- Revise.
+- Look for stylistic inconsistencies.

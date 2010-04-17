@@ -3,8 +3,9 @@ layout: design-doc
 title: documents for software design and planning
 ---
 
-These documents are my attempt to systematize an effective iterative development
-process using a [navigational][1] metaphor.
+These documents are my attempt to express an effective iterative development
+process based on a [navigational][1] metaphor.
+
 
 
 ### Basic Assumptions of Iterative Navigation
@@ -67,7 +68,7 @@ Here is my Jr. Lightweight Foldable Software Explorer Mapping Kit, Suitable for
 All Ages and Skill Levels.
 
 1. [Project Engagement Plan](pep.html) &mdash; "Where are we trying
-   to go and why?".
+   to go and why?"
 2. [User Model](user-model.html) &mdash; "Who is this for?"
 3. [Design Decisions](design-decisions.html) &mdash; "How will we get
    there?"

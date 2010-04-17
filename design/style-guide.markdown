@@ -3,6 +3,9 @@ layout: design-doc
 title: Style Guide
 ---
 
+<div id="doc-status">Doc Status: DRAFT 15 April 2010</div>
+
+
 You may want to institute a mutually agreed-upon style guide to shape the
 **microdecsisions** each of your engineers will make.
 
