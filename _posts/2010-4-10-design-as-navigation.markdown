@@ -1,6 +1,6 @@
 ---
 layout: post
-titile: design as navigation
+title: Design as Navigation
 ---
 
 ### The Challenge

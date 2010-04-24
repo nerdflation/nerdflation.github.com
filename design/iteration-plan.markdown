@@ -22,9 +22,9 @@ or from the bottom-up) then you are likely to run into a situation where you
 will have to throw away a lot of work -- including much of the effort you've put
 into maintaining a good design style, production-worthy qualities, and
 conceptual integrity -- when you uncover new information or when requirements
-change. Two words come to my mind when I think about throwing away a lot of hard
-work due to shifting requirements or avoidable design mistakes: *expensive* and
-*demoralizing*.
+change. Two words can adequately describe what it means to throw away a lot of
+hard work due to shifting requirements or avoidable design mistakes: *expensive*
+and *demoralizing*.
 
 You should instead design and build the project in *information order* (a.k.a
 *risk order*). Plan your efforts to flesh out requirements, weed out design

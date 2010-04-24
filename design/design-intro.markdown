@@ -4,8 +4,7 @@ title: documents for software design and planning
 ---
 
 These documents are my attempt to express an effective iterative development
-process based on a [navigational][1] metaphor.
-
+process based on a [navigational][1] metaphor. There are [caveats][2].
 
 
 ### Basic Assumptions of Iterative Navigation
@@ -83,3 +82,4 @@ All Ages and Skill Levels.
 
 
 [1]: http://nerdflation.github.com/2010/04/10/design-as-navigation.html
+[2]: http://nerdflation.github.com/design/2010/04/24/design-caveats.html
